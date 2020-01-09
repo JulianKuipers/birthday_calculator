@@ -1,6 +1,6 @@
 # birthday_calculator
 
-With this JavaScript script you can calculate an age based on a givin birthday.
+With this JavaScript script you can calculate an age based on a given birthday.
 
 # How to use
 1. First add `ageCalc.js` file to the same folder as the html file.
